@@ -42,6 +42,7 @@ examples-rclpy-minimal-subscriber==0.15.5
 generate-parameter-library-py==0.7.1
 geometry-msgs==4.9.1
 gps-msgs==2.1.2
+gunicorn==26.0.0
 image-geometry==3.2.1
 interactive-markers==2.3.2
 irobot-create-common-bringup==2.1.0
@@ -64,6 +65,7 @@ nav2-common==1.1.20
 nav2-msgs==1.1.20
 nav2-simple-commander==1.0.0
 osrf-pycommon==2.1.6
+packaging==26.2
 pcl-msgs==1.0.0
 pendulum-msgs==0.20.9
 python-qt-binding==1.1.3
